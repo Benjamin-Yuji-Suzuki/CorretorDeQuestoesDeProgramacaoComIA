@@ -1,4 +1,4 @@
-# 👨‍⚖️ Juiz Automático de Programação (Desktop)
+# 👨‍⚖️ Juiz Automático de Programação
 
 O **Juiz Automático** é uma ferramenta desktop desenvolvida para automatizar a correção de exercícios de programação em lote. Ele foi criado especificamente para auxiliar monitores e professores na avaliação de grandes volumes de arquivos `.zip` de forma rápida, justa e eficiente.
 
